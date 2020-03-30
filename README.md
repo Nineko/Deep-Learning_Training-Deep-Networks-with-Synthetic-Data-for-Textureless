@@ -13,3 +13,7 @@ https://drive.google.com/open?id=14RATn-h3gV4wIrBbZ2rxjERyxK64EEQM
 　　根據此座標系，在我們的研究中主要考慮三個變量 : In-plane Rotation 、 Theta 、 Phi
 
 ![image](img/ThreePara.gif)
+
+　　同時為了解決訓練資料取得及標定不易的問題，我們撰寫了使用OpenGL並在QT上進行開發的CAD模型模擬器，詳細可以前往我的 CAD-Simulator 專案(https://github.com/Nineko/CAD-Simulator)
+  
+![image](img/CAD模型界面.png)
