@@ -28,3 +28,10 @@ https://drive.google.com/open?id=14RATn-h3gV4wIrBbZ2rxjERyxK64EEQM
 | Class 1 | 0.8824   | 0.8284                       | 2.3140                          | 2.2287                          |
 | Class 2 | 0.8592   | 0.8496                       | 1.6883                          | 1.6435                          |
 | Class 3 | 0.9362   | 0.8499                       | 1.9301                          | 1.6057                          |
+
+　　再來是三個變量的估測結果 :
+| Class   | Mean In-plane rotation error(°)  | Mean Theta error(°) | Mean Phi error(°) | 
+| :-----: | :------------------------------: | :-----------------: | :---------------: |
+| Class 1 | 2.7461                           | 1.3171              | 6.2603            |
+| Class 2 | 3.5969                           | 0.8520              | 6.2455            |
+| Class 3 | 4.6340                           | 1.0070              | 6.0381            |
