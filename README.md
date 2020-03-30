@@ -13,7 +13,18 @@ https://drive.google.com/open?id=14RATn-h3gV4wIrBbZ2rxjERyxK64EEQM
 　　根據此座標系，在我們的研究中主要考慮三個變量 : In-plane Rotation 、 Theta 、 Phi
 
 ![image](img/ThreePara.gif)
-
+### CAD Simulator
 　　同時為了解決訓練資料取得及標定不易的問題，我們撰寫了使用OpenGL並在QT上進行開發的CAD模型模擬器，詳細可以前往我的 CAD-Simulator 專案(https://github.com/Nineko/CAD-Simulator)
   
 ![image](img/CAD模型界面.png)
+### 測試結果
+　　在本研究中，我們利用前述的模擬器產生訓練資料進行訓練，並以相同的方式產生測試集對三種物體進行測試，每種物體都產生了約16000張圖片進行測試
+ 
+![image](img/class.jpg)
+
+　　測試時分成兩個部分，首先為分辨物體及物體定位的結果 :
+| Class   | Mean IoU | Mean Classification Accuracy | 
+| :-----: | :------: | :--------------------------: |
+| Class 1 | 0.8824   | 0.8284                       |
+| Class 2 | 0.8592   | 0.8496                       |
+| Class 3 | 0.9362   | 0.8499                       |
