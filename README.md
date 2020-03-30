@@ -23,8 +23,8 @@ https://drive.google.com/open?id=14RATn-h3gV4wIrBbZ2rxjERyxK64EEQM
 ![image](img/class.jpg)
 
 　　測試時分成兩個部分，首先為分辨物體及物體定位的結果 :
-| Class   | Mean IoU | Mean Classification Accuracy | 
-| :-----: | :------: | :--------------------------: |
-| Class 1 | 0.8824   | 0.8284                       |
-| Class 2 | 0.8592   | 0.8496                       |
-| Class 3 | 0.9362   | 0.8499                       |
+| Class   | Mean IoU | Mean Classification Accuracy | Center X-Shift Error (By pixel) | Center Y-Shift Error (By pixel) |
+| :-----: | :------: | :--------------------------: | :-----------------------------: | :-----------------------------: |
+| Class 1 | 0.8824   | 0.8284                       | 2.3140                          | 2.2287                          |
+| Class 2 | 0.8592   | 0.8496                       | 1.6883                          | 1.6435                          |
+| Class 3 | 0.9362   | 0.8499                       | 1.9301                          | 1.6057                          |
