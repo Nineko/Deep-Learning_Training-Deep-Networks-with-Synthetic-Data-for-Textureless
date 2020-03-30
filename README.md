@@ -5,3 +5,8 @@
 https://drive.google.com/open?id=14RATn-h3gV4wIrBbZ2rxjERyxK64EEQM
 ## 簡述
 ### 問題定義
+在這個研究中想要解決在工業應用上因傳統視覺伺服的不足而導入深度學習時，所發生的種種問題。
+我們假設視覺系統為一個手眼系統(左圖)，所以能夠以物體為圓心定義出一個球座標系(右圖)
+
+![image](img/eyeoohand.png)
+
