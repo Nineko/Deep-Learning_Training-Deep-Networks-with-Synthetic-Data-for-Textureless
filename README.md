@@ -12,6 +12,4 @@ https://drive.google.com/open?id=14RATn-h3gV4wIrBbZ2rxjERyxK64EEQM
 
 根據此座標系，在我們的研究中主要考慮三個變量 : In-plane Rotation 、 Theta 、 Phi
 
-![image](img/para.PNG)
-
-![image](img/rot.gif)![image](img/theta.gif)![image](img/phi.gif)
+![image](img/ThreePara.gif)
