@@ -1,8 +1,6 @@
 # Training Deep Networks with Synthetic Data for Textureless Object Pose Estimation
-碩士研究成果，不過目前因其他因素，無法公開全文，也不適合作太詳細的說明，還請見諒
-最晚公開時間 2025.01
-## 論文連結
-https://drive.google.com/open?id=14RATn-h3gV4wIrBbZ2rxjERyxK64EEQM
+碩士研究成果，根據當初設定的期限，最晚公開時間於 2025.01，故目前尚無法公開全文，也不適合作太詳細的說明，還請見諒
+
 ## 簡述
 ### 問題定義
 　　在這個研究中想要解決在工業應用上因傳統視覺伺服的不足而導入深度學習時，所發生的種種問題。
